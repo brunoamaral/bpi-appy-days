@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Welcome to the Appy Day!"
-date:   2013-13-13 20:37:00
+date:  2013-13-13 20:37:00
 ---
 
-![postimage]({{ site.baseurl }}/postimages/IMG_1362_small.png)
+![postimage]({{ site.baseurl }}/postimages/IMG_1362.JPG)
 
 O BPI desafiou-nos a conseguir construir uma aplicação num só dia. A nós e a outras centenas de pessoas!
 
