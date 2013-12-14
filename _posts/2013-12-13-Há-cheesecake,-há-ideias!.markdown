@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Há Cheesecake, há ideias!"
-date: 2013-12-13 23:47
+date: 2013-12-13 23:47:00
 ---
 
 ![IMG_3472_small]({{ site.baseurl }}/postimages/IMG_3472_small.jpg)
