@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alvorada!"
-date:
+date: 2013-14-12 05:42 
 ---
 
 ![Alvorada]({{ site.baseurl}}/postimages/alvorada.JPG)
