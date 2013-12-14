@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Alvorada!"
+date:
+---
+
+![Alvorada]({{ site.baseurl}}/postimages/alvorada.JPG)
+
+Se há umas horas estávamos cansados, agora estamos mesmo é KO.
+
+O Bruno já se rendeu à Red Bull de Mírtilos;
+
+A Diana já se ri das piadas do Paulo.
+
+O Paulo já nem se esforça para ter piada.
+
+A app ? Está bem encaminhada obrigado por perguntarem! Conseguimos preparar os primeiros écrans e estamos a afinar a ligação entre outras redes sociais.
+
+O Paulo ainda conseguiu acrescentar-lhe um slideshow que é … digamos, bastante catita. Só é pena passar o tempo a insultar bocadinhos de código … 
