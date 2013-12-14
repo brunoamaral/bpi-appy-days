@@ -16,4 +16,7 @@ O Paulo já nem se esforça para ter piada.
 
 A app ? Está bem encaminhada obrigado por perguntarem! Conseguimos preparar os primeiros écrans e estamos a afinar a ligação entre outras redes sociais.
 
-O Paulo ainda conseguiu acrescentar-lhe um slideshow que é … digamos, bastante catita. Só é pena passar o tempo a insultar bocadinhos de código … 
+O Paulo ainda conseguiu acrescentar-lhe um slideshow que é … digamos, bastante catita. Só é pena passar grande parte do tempo a insultar bocadinhos de código … 
+
+Verdade seja dita, no meio disto tudo somos o grupo mais bem disposto aqui da zona.
+![workinprogress]({{ site.baseurl }}/postimages/workinprogress.JPG)
