@@ -5,15 +5,23 @@ comments: true
 ---
 
 <div class="col-md-3">
-	<div id="home">
-	  <h1><a href="{{ site.baseurl }}">The Radioheads</a></h1>
-	  <h2><a href="https://appydaybpi.pt">Appy day BPI</a></h2>
-	  <ul class="posts">
-	    {% for post in site.posts %}
-	      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-	    {% endfor %}
-	  </ul>
-	</div>
+    <div id="home">
+      <h1><a href="{{ site.baseurl }}">The Radioheads</a></h1>
+      <h2><a href="https://appydaybpi.pt">Appy day BPI</a></h2>
+      <ul class="posts">
+        {% for post in site.posts %}
+          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+
+      <h3>Páginas</h3>
+      <ul class="posts">
+
+          <li><a href="{{ site.baseurl }}/contactos.html">Contactos</a></li>
+
+      </ul>
+    </div>
 </div>
 
 <div class="col-md-8 col-md-offset-1">
